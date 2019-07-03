@@ -2618,6 +2618,10 @@ figure.vimeo a img, figure.youtube a img {
 }
 
  
+.text-center{
+    text-align: center;
+    margin-top: 10px;
+}
  
  
  
