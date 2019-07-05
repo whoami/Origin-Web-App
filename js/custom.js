@@ -5,7 +5,7 @@
 
 	Royal_Preloader.config({
         mode:        'scale_text',
-        text:        'Welcome to the Learning World!',
+        text:        'Hello World!',
         text_colour: '#f8f8f8',
 		background:  '#212121'
 	});
