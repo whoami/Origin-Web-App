@@ -412,7 +412,7 @@ ul.slimmenu li ul {
 	width:150px;
 	height:95px;
 	z-index:10000;
-	top:45px;
+	top:30px;
 	background:url('../images/white-logo.png') no-repeat center center;
 	background-size:150px 95px;
 	-webkit-transition : all 0.3s ease-out;
