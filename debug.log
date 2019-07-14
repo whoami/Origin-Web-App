@@ -99,3 +99,5 @@
 [0705/203100.201:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0705/203100.201:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0705/203822.800:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0714/192603.241:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0714/200853.806:ERROR:crash_report_database_win.cc(469)] failed to stat report
