@@ -1,13 +1,6 @@
 
 /*------------------------------------------------------------------
 
-Project:	Talos - Creative Multipurpose HTML Template
-Version:	1.0
-Last change:	24/09/16 
-Assigned to:	IG Design
-Primary use:	Multipurpose OnePage Design
-
-
 Table of contents
 
 1. Preloader
@@ -808,7 +801,7 @@ ul.slimmenu.collapsed li > ul {
 	color: #f9f9f9;
 }
 .home-text h1 span{
-	font-size: 110px;
+	font-size: 90px;
 	line-height: 120px;
 	color: #f9f9f9;
 	-webkit-text-fill-color: transparent;
